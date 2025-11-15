@@ -19,7 +19,7 @@ h1, h2, h3 {
     letter-spacing: 0.5px;
 }
 
-/* ========= NAVBAR ========= */
+ /* ========= NAVBAR ========= */
 .navbar {
     width: 100%;
     padding: 20px 40px;
@@ -201,3 +201,4 @@ footer {
     font-size: 14px;
     opacity: 0.9;
 }
+
